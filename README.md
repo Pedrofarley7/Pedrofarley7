@@ -5,6 +5,8 @@
 
 ![Pedro Farley GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrofarley7&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrofarley7&show_icons=true&theme=radical)](https://github.com/Pedro-Farley/github-readme-stats)
+
 ### Tecnologias que eu utilizo:
 
 <div style= "display: inline_block"><br/>
