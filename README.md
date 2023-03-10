@@ -3,9 +3,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pfarley_7/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCVc_tZP7H6jiEOyyi1DpvmA)
 
-![Pedro Farley GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrofarley7&show_icons=true&theme=radical)
+![Pedro Farley GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrofarley7&show_icons=true&theme=radical) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrofarley7&show_icons=true&theme=radical)](https://github.com/Pedro-Farley/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PedroFarley7&theme=radical&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ### Tecnologias que eu utilizo:
 
