@@ -9,10 +9,6 @@
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pedrofarley7&theme=github-compact)
 
-## Tecnologias que eu utilizo:
-
-<div style= "display: inline_block"><br/>
-  <img align="center" alt "JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" alt "Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt "Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  </div>
+<div align="center" valign="top"><br>
+ <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
