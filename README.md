@@ -35,7 +35,3 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=259F3F&height=120&section=footer"/>
-
-
- 
- 
